@@ -1,0 +1,9 @@
+###
+POST http://localhost:5000/articles/
+Content-Type: application/json
+
+{
+     "title": "dsdsd",
+     "description": "dsdsdds",
+    "markdown": ""
+}
